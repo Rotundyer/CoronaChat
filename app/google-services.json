@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1060776377189",
+    "firebase_url": "https://coronachat-c0c98.firebaseio.com",
+    "project_id": "coronachat-c0c98",
+    "storage_bucket": "coronachat-c0c98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060776377189:android:73d5c4e335692b154ebf8c",
+        "android_client_info": {
+          "package_name": "com.pskovhack.coronachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060776377189-pt08r68ku725snd66s368v115s34ovhs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pskovhack.coronachat",
+            "certificate_hash": "05f1801c5497861d5f2feab8acd054f692c5511c"
+          }
+        },
+        {
+          "client_id": "1060776377189-j2ab20jvih7aifloekod5dfl1eauivd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5thvGciW90eziu2sWXKKIu5u-IOZFzz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060776377189-j2ab20jvih7aifloekod5dfl1eauivd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
